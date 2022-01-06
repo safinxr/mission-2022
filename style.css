@@ -1,0 +1,122 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0px;
+}
+
+p{
+    text-align: justify;
+}
+
+.flexible-area {
+    display: flex;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.mission-area h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+.rgb-color {
+    color:rgb(230, 86, 186);
+}
+
+.dummy-text {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.half-width {
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.half-width h1 {
+    border-left: 5px solid;
+    border-image: linear-gradient(#ff7979,rgb(234, 44, 176)) 27;
+    padding-left: 10px;
+}
+
+.linked-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(234, 44, 176),#ff7979);
+    padding: 10px 20px;
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+}
+
+.paragraph-text {
+    margin-top: 35px;
+}
+
+.img-size {
+    width: 60%;
+    margin-left: 35%;
+}
+
+.mission-img-size{
+    width: 70%;
+}
+
+.improve{
+    padding-bottom: 10px;
+}
+
+.mission-half-width{
+    width: 50%;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10px;
+}
+
+.b-color-1{
+    background-color:#eccb68d0;
+}
+
+.b-color-2{
+    background-color:#ff6b81d0;
+}
+
+.b-color-3{
+    background-color:#70a2ffce;
+    margin-right: 5%;
+}
+
+.develop-half-width img{
+    width: 500px;
+    height: 400px;
+}
+
+.develop-half-width h2{
+    font-size: 30px;
+}
+
+
+.develop-half-width{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#blueviolet-color{
+    color: blueviolet;
+}
+
+small{
+    font-weight: lighter;
+}
